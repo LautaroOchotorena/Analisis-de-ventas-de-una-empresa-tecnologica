@@ -5,7 +5,12 @@ Se parte de una **base de datos** de una **empresa de ventas de artículos tecno
 
 La carpeta [data](https://github.com/LautaroOchotorena/Big-Data-Ciencias-de-Datos-Codo-a-Codo-4.0/tree/main/data) contiene los archivos de dicha empresa.
 
+La resolución del proyecto viene dado por el archivo [TP integrador](https://github.com/LautaroOchotorena/Big-Data-Ciencias-de-Datos-Codo-a-Codo-4.0/blob/main/TP%20integrador.ipynb).
+
 Este mismo se hizo en **deepnote** en [link](https://deepnote.com/@lautaro-ochotorena-d787/TP-Final-Integrador-d6184b2a-f349-406f-adc8-df2039bd5ffc).
+
+**Principales librerías**:<br>
+Numpy, Pandas, Seaborn, Matplotlib y Sqlite3.
 
 
 
