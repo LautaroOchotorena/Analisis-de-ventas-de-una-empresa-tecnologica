@@ -1,5 +1,5 @@
 # Big Data (Ciencias de Datos)
-Este es el proyecto integrador del **curso** Big data (Ciencia de Datos) en el marco del programa Codo a Codo 4.0.
+Este es el proyecto integrador del **curso Big data (Ciencia de Datos)** en el marco del programa Codo a Codo 4.0.
 
 Se parte de una **base de datos** de una **empresa de ventas de artículos tecnológiicos** con diferentes tablas y el objetivo principal es poder conectarlas para luego hacer un **análisis de los datos** profundo de lo obtenido.
 
